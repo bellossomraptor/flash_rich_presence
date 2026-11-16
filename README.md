@@ -9,7 +9,7 @@ A small Windows tool that shows a **Discord Rich Presence** status ("Playing Fla
 
 ## Requirements
 
-- Windows
+- Windows only for now
 - The **Discord desktop app**, running (the browser and mobile versions can't show Rich Presence)
 - In Discord: *User Settings → Activity Privacy → Share my detected activity* turned **on**
 - Your Discord status must **not** be set to Invisible
