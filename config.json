@@ -1,0 +1,12 @@
+{
+  "client_id": "1572001957625860116",
+  "process_prefix": "flashplayer",
+  "poll_interval": 5,
+  "min_update_gap": 15,
+  "reconnect_delay": 15,
+  "show_window_title": false,
+  "large_image": "flash_logo",
+  "large_text": "Adobe Flash Player 32",
+  "details": "Running Flash Player 32",
+  "state": "Flash Player Standalone"
+}

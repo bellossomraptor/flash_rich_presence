@@ -1,0 +1,4 @@
+pypresence
+psutil
+# Optional, only needed if "show_window_title" is true in config.json:
+# pywin32

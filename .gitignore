@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
